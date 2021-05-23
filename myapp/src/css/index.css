@@ -1,0 +1,36 @@
+html {
+	font-size: 15px;
+	line-height: 160%;
+}
+
+body {
+	font-family: serif;
+	color: white;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+header .Logo,
+footer .Logo {
+	filter: invert(1);
+	transition: all 0.25s;
+}
+
+header .Logo:hover,
+footer .Logo:hover {
+	transform: scale(1.05) rotate(-20deg);
+}
+
+header .Logo {
+	width: 50%;
+}
+
+footer .Logo {
+	width: 75%;
+}
+
+section {
+	min-height: 100vh;
+}
