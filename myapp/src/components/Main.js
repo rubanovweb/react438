@@ -2,19 +2,21 @@ import React from "react";
 import "../css/Main.css";
 
 import Intro from "./Intro";
-import Catalog from "./Catalog";
+import Exchange from "./Exchange";
 import Gallery from "./Gallery";
-import Blog from "./Blog";
+import Faq from "./Faq";
 import Contacts from "./Contacts";
+import ArrowTop from "./ArrowTop";
 
 function Main() {
   return (
     <main>
       <Intro />
-      <Catalog />
+      <Exchange />
+      <Faq />
       <Gallery />
-      <Blog />
       <Contacts />
+      <ArrowTop />
     </main>
   );
 }

@@ -1,0 +1,28 @@
+{
+	"items": [{
+			"id": "intro",
+			"name": "Технология",
+			"link": "#intro"
+		},
+		{
+			"id": "exchahge",
+			"name": "Биржи",
+			"link": "#exchange"
+		},
+		{
+			"id": "faq",
+			"name": "FAQ",
+			"link": "#faq"
+		},
+		{
+			"id": "gallery",
+			"name": "Фото",
+			"link": "#gallery"
+		},
+		{
+			"id": "contacts",
+			"name": "Контакты",
+			"link": "#contacts"
+		}
+	]
+}

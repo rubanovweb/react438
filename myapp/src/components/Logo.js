@@ -1,10 +1,9 @@
 import React from "react";
-import logo from "../img/logo.svg";
 
 function Logo() {
   return (
     <a href="/">
-      <img className="Logo" src={logo} alt="Логотип" />
+      <img className="Logo" src="/img/logo.svg" alt="Логотип" />
     </a>
   );
 }

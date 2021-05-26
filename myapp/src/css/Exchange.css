@@ -1,0 +1,25 @@
+.Exchange {
+	position: relative;
+	background-image: url("../img/exchange-bg.jpg");
+}
+
+.Exchange::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+	content: "";
+
+	background-color: rgba(1, 0, 14, 0.589);
+}
+
+.Exchange .container {
+	position: relative;
+	z-index: 100;
+}
+
+.Exchange .section-title {
+	margin-bottom: 2rem;
+}

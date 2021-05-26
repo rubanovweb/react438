@@ -1,3 +1,30 @@
 .Intro {
-	background-color: lightcyan;
+	min-height: auto;
+	padding: 70px 0;
+	background-image: url("../img/intro-bg.jpg");
+}
+
+.Intro .intro-text {
+	font-size: 1.25rem;
+	text-align: justify;
+	text-indent: 1rem;
+}
+
+.Intro .intro-text::first-letter {
+	font-size: 2.25rem;
+	color: gold;
+}
+
+@media(max-width: 1199px) {
+	.Intro .intro-text {
+		padding: 35px;
+		border-radius: 20px;
+		background-color: rgba(3, 44, 121, 0.842);
+	}
+}
+
+@media(max-width: 767px) {
+	.Intro {
+		background-image: linear-gradient(to bottom, #0f2753 0%, #0a2a66 1%, #1e55b3 100%);
+	}
 }

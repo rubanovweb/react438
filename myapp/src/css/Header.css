@@ -1,4 +1,43 @@
 header {
-	background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
-	padding: 15px 0;
+	position: sticky;
+	top: 0;
+	z-index: 200;
+	background-image: linear-gradient(to top, #b1ae02 0%, #313b02 100%);
+	box-shadow: 0 0 10px rgb(216, 189, 35);
+	padding: 10px 0;
+}
+
+header nav {
+	display: flex;
+	align-items: center;
+}
+
+.Menu {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.ItemMenu {
+	transition: all 0.25s;
+}
+
+.ItemMenu:hover {
+	transform: translate(3px, 3px) scale(1.025);
+}
+
+.ItemMenu a {
+	padding: 5px 20px;
+	font-size: 1.6rem;
+	text-transform: uppercase;
+	color: white;
+	transition: all 0.25s;
+}
+
+.ItemMenu a:hover {
+	text-decoration: none;
+	color: rgb(1, 74, 170);
 }
