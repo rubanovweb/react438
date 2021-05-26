@@ -1,12 +1,15 @@
 import React from "react";
 import "../css/Faq.css";
 
+import Accordion from "./Accordion";
+
 function Blog() {
   return (
     <section className="Faq" id="faq">
       <div className="container">
+        <h2 className="section-title">Часто задаваемые вопросы</h2>
         <div className="row">
-          <h2 className="col-12 section-title">FAQ</h2>
+          <Accordion />
         </div>
       </div>
     </section>

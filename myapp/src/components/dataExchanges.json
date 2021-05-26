@@ -9,7 +9,7 @@
 				"text": "Binance",
 				"href": "https://binance.com"
 			},
-			"content": "Binance Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Один из крупнейших международных онлайн-сервисов обмена цифровых валют. Десятки криптовалют обмениваются как между собой, так и на фиатные деньги."
 		},
 		{
 			"id": "coinbase",
@@ -21,7 +21,7 @@
 				"text": "Coinbase",
 				"href": "https://coinbase.com"
 			},
-			"content": "Coinbase Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Американская компания, которая управляет платформой обмена криптовалютой. Coinbase работает в первую очередь удаленно, и у нее нет официальной штаб-квартиры."
 		},
 		{
 			"id": "bitfinex",
@@ -33,7 +33,7 @@
 				"text": "Bitfinex",
 				"href": "https://bitfinex.com"
 			},
-			"content": "Bitfinex Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Криптовалютная торговая площадка, принадлежащая и управляемая iFinex Inc., штаб-квартира которой расположена в Гонконге и зарегистрирована на Британских Виргинских островах."
 		},
 		{
 			"id": "exmo",
@@ -45,7 +45,7 @@
 				"text": "Exmo",
 				"href": "https://exmo.me"
 			},
-			"content": "Exmo Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Криптовалютная биржа и обменник для транзакций, обеспечивающий безопасность покупки и продажи как цифровых так и фиатных валют, широкий выбор доступных методов внесения и вывода средств."
 		},
 		{
 			"id": "bitmex",
@@ -57,7 +57,7 @@
 				"text": "Bitmex",
 				"href": "https://bitmex.com"
 			},
-			"content": "Bitmex Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Биржа пиринговой торговли, предлагающая контракты с кредитным обеспечением. Все сделки осуществляются в Биткоинах. Соучредителем и генеральным директором биржи является Артут Хейз."
 		},
 		{
 			"id": "huobi",
@@ -69,7 +69,7 @@
 				"text": "Huobi",
 				"href": "https://www.huobi.com"
 			},
-			"content": "Huobi Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+			"content": "Китайская криптовалютная биржа, которая по состоянию на март 2020 года находится на 4-ой строке рейтинга CoinMarketCap по ликвидности. Создатель — Леон Ли (Leon Li). Huobi была запущена в августе 2013 года."
 		}
 	]
 }

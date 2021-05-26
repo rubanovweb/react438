@@ -1,0 +1,45 @@
+{
+	"questions": [{
+			"headerId": "One",
+			"question": "Вопрос 1",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": true
+		},
+		{
+			"headerId": "Two",
+			"question": "Вопрос 2",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": true
+		},
+		{
+			"headerId": "Three",
+			"question": "Вопрос 3",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": false
+		},
+		{
+			"headerId": "Four",
+			"question": "Вопрос 4",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": false
+		},
+		{
+			"headerId": "Five",
+			"question": "Вопрос 5",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": false
+		},
+		{
+			"headerId": "Six",
+			"question": "Вопрос 6",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": false
+		},
+		{
+			"headerId": "Seven",
+			"question": "Вопрос 7",
+			"answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium corrupti fuga facere ab inventore harum maxime dignissimos iure, atque dicta voluptatum cupiditate reprehenderit molestias, sequi a recusandae dolorem? Quos, sit.",
+			"expanded": false
+		}
+	]
+}

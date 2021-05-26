@@ -1,1 +1,27 @@
-.Faq {}
+.Faq {
+	min-height: auto;
+	padding-bottom: 3rem;
+	position: relative;
+	background-image: url("../img/faq-bg.jpg");
+}
+
+.Faq::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+	content: "";
+
+	background-color: rgba(1, 0, 14, 0.589);
+}
+
+.Faq .container {
+	position: relative;
+	z-index: 100;
+}
+
+.Faq .section-title {
+	margin-bottom: 2rem;
+}

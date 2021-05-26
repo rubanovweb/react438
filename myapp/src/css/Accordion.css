@@ -1,0 +1,46 @@
+.accordion {
+	margin: auto;
+	width: 80%;
+}
+
+.accordion .card {
+	background-color: rgba(67, 67, 201, 0.836);
+	border-bottom: 2px ridge rgba(12, 37, 104, 0.24) !important;
+}
+
+.accordion .card-header {
+	padding: 0;
+}
+
+.accordion button {
+	padding: 15px;
+	padding-left: 20px;
+
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	text-align: center !important;
+	color: rgb(212, 209, 4);
+
+	transition: all 0.25s;
+}
+
+.accordion button:hover {
+	color: white;
+	background-color: rgb(78, 78, 226);
+}
+
+.accordion .card-body {
+	padding: 25px;
+
+	font-family: "Gabriela", serif;
+	font-size: 1.25rem;
+	text-align: justify;
+	text-indent: 1rem;
+	color: rgb(12, 2, 148);
+	background-color: rgba(255, 255, 255, 0.863);
+}
+
+.accordion .card-body::first-letter {
+	font-size: 2rem;
+	font-weight: bold;
+}
